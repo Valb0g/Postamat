@@ -1,0 +1,11 @@
+export const DEL_PRODUCT = 'DEL_PRODUCT';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const ADD_NUMBER = 'ADD_NUMBER';
+export const CHECK_PRODUCT = 'CHECK_PRODUCT';
+export const GET_PACKAGES = 'GET_PACKAGES';
+export const SHOW_PACKAGE = 'SHOW_PACKAGE';
+export const DEL_PACK_FROM_SHOW = 'DEL_PACK_FROM_SHOW';
+export const ADD_PACKAGE = 'ADD_PACKAGE';
+export const CLEAR_INPUT = 'CLEAR_INPUT';
+export const CLEAR_SHOW = 'CLEAR_SHOW';
+export const SHOW_ERROR = 'SHOW_ERROR';
